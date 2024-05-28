@@ -9,7 +9,7 @@ const Banner = () => {
   return (
     <BannerCon>
       <div className="bannerContainer">
-      <div className="imageContainer">
+        <div className="imageContainer">
           <img src={Avatar} alt="" className="avatar" />
         </div>
         <div className="typeWirter">
@@ -38,7 +38,7 @@ const Banner = () => {
             <div className="typeButtons">
               <button class="learn-more">
                 <a
-                  href="https://drive.google.com/file/d/1RFpRCquN1FRyMY8yDIUpjhLYq5u-S-mT/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1JOe70t7GzQU8FyJ2UPNDuKbMafUJ7YUR/view?usp=sharing"
                   target={"_blank"}
                 >
                   <span class="circle" aria-hidden="true">
@@ -63,7 +63,7 @@ const Banner = () => {
           </div>
         </div>
 
-       
+
       </div>
     </BannerCon>
   );

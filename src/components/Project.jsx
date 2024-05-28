@@ -9,7 +9,7 @@ let projectData = [
     title: "Cugate Music System",
     desc: "Cugate AG is a German big data company founded by Hanspeter 'Memo' Rhein, focusing on music system innovations.",
     git: "https://github.com/RohitSahuvlog/Freelance-cugate.org",
-    deployed: "https://cugate.org/",
+    deployed: "https://cugate.netlify.app/",
     techStack: "React JS | Redux | Chakra ui |NodeJS |MongoDB | Express JS | Redux | Javascript | HTML 5 | CSS 3 |GitHub | Bootstrap",
     // blog: "",
   },
@@ -32,7 +32,7 @@ let projectData = [
     desc: "Explore the majestic landscapes and rich cultural heritage of Mid-Asia with our comprehensive travel guides.",
     git: "https://github.com/https-github-com-RohitSahuvlog/Travelasiaroutes",
     deployed: "https://midasiaroutes.com/",
-    techStack: "React JS | Redux | Chakra ui |NodeJS |MongoDB | Express JS | Redux | Javascript | HTML 5 | CSS 3 |GitHub | Bootstrap",
+    techStack: "React JS | Redux | Chakra ui | NodeJS |MongoDB | Express JS | Redux | Javascript | HTML 5 | CSS 3 |GitHub | Bootstrap",
     // blog: "",
   },
 
@@ -46,34 +46,32 @@ let projectData = [
 
     git: "https://github.com/RohitSahuvlog/coronometer",
     deployed: "https://adorable-fudge-a736e0.netlify.app/",
-    techStack: "React JS | Redux | Chakra ui |NodeJS |MongoDB | Express JS | Redux | Javascript | HTML 5 | CSS 3 |GitHub | Bootstrap",
+    techStack: "React JS | Redux | Chakra ui | NodeJS |MongoDB | Express JS | Redux | Javascript | HTML 5 | CSS 3 |GitHub | Bootstrap",
     // blog: "",
   },
   {
     id: 3,
     heroImage:
       "https://github.com/KaustubhBadve/Naukri/blob/main/Screenshots/LandingPage.png?raw=true",
-    title: "Naukri",
-    desc: "Naukri.com is a website where we can search and apply for jobs available in India",
-    team: "A collaborative project, built in 6 days by a team of 6 members.",
-    git: "https://github.com/KaustubhBadve/Naukri",
-    deployed: "https://naukriclone98.vercel.app/",
+    title: "MoviesApp",
+    desc: "A platform to explore and track your favorite movies, offering detailed information and personalized recommendations.",
+    team: "",
+    git: "https://github.com/KaustubhBadve/MoviesApp",
+    deployed: "https://moviesapp98.vercel.app/",
     techStack:
       "HTML5 | CSS3 | React Js | Redux | React-Thunk | Styled-Components | Javascript",
     // blog: ""
-
   },
   {
     id: 3,
-    heroImage:
-      "https://github.com/KaustubhBadve/Naukri/blob/main/Screenshots/LandingPage.png?raw=true",
-    title: "Naukri",
+    heroImage: "https://res.cloudinary.com/dg5dkcpkn/image/upload/v1715797451/uufopr1kvpjydau2cp1t.png",
+    title: "MoviesApp",
     desc: "Naukri.com is a website where we can search and apply for jobs available in India",
     team: "A collaborative project, built in 6 days by a team of 6 members.",
-    git: "https://github.com/KaustubhBadve/Naukri",
-    deployed: "https://naukriclone98.vercel.app/",
+    git: "https://github.com/RohitSahuvlog/onmovieapp",
+    deployed: "onmoviesite.netlify.app",
     techStack:
-      "HTML5 | CSS3 | React Js | Redux | React-Thunk | Styled-Components | Javascript",
+      "HTML5 | CSS3 | Javascript",
     // blog: ""
 
   },
@@ -107,7 +105,7 @@ let projectData = [
   {
     id: 6,
     heroImage:
-      "https://techweblabs.com/wp-content/uploads/2022/01/Grofers-Review.png",
+      "https://res.cloudinary.com/dg5dkcpkn/image/upload/v1715803393/qu8pthjw9eztyhz5djqt.png",
     title: "Blinkit",
     desc: "Blinkit (formerly Grofers) is an Indian instant delivery service. Customers of the company use a mobile application to order groceries and essentials online.",
     team: "A collaborative project, built in 6 days by a team of 6 members.",

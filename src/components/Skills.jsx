@@ -21,20 +21,21 @@ import {
   SiHtml5,
   SiNetlify,
   SiHeroku,
-  SiJson,
+  SiJson
 } from "react-icons/si";
+import { SiSocketdotio, SiRedis, SiPostgresql, } from "react-icons/si";
 
 import { VscJson } from "react-icons/vsc";
 
 const Skills = () => {
   return (
     <SkillsDiv id="skills">
-      <p className="title" style={{color:"#F2AA4CFF"}}>Skills</p>
+      <p className="title" style={{ color: "#F2AA4CFF" }}>Skills</p>
 
       <div className="mainContainer">
         <div className="container">
           <div className="FrontEnd">
-            <p className="subTitle" style={{color:"#F2AA4CFF"}}>Frontend</p>
+            <p className="subTitle" style={{ color: "#F2AA4CFF" }}>Frontend</p>
             <div className="frontEndSKills">
               <ul className="skillsList">
                 <Fade direction="up" duration={700}>
@@ -94,7 +95,7 @@ const Skills = () => {
             </div>
           </div>
           <div className="FrontEnd">
-            <p className="subTitle" style={{color:"#F2AA4CFF"}}>Backend</p>
+            <p className="subTitle" style={{ color: "#F2AA4CFF" }}>Backend</p>
             <div className="frontEndSKills">
               <ul className="skillsList">
                 <Fade direction="up" duration={700}>
@@ -114,15 +115,35 @@ const Skills = () => {
                     <span>
                       <SiNodedotjs />
                     </span>
-                    <p>Node Js</p>
+                    <p>Node.js</p>
                   </li>
+                  <li>
+                    <span>
+                      <SiSocketdotio />
+                    </span>
+                    <p>Socket.io</p>
+                  </li>
+                  <li>
+                    <span>
+                      <SiRedis />
+                    </span>
+                    <p>Redis</p>
+                  </li>
+                  <li>
+                    <span>
+                      <SiPostgresql />
+                    </span>
+                    <p>PostgreSQL</p>
+                  </li>
+
+
                 </Fade>
               </ul>
             </div>
           </div>
         </div>
         <div className="tools">
-          <p className="subTitle" style={{color:"#F2AA4CFF"}}>Tools</p>
+          <p className="subTitle" style={{ color: "#F2AA4CFF" }}>Tools</p>
           <div className="toolsInSkills">
             <ul className="skillsList">
               <Fade direction="up" duration={700}>
